@@ -35,7 +35,7 @@ public class Solution {
             System.out.println("NO");
         }
 
-
+        scanner.close();
 
     }
 }
